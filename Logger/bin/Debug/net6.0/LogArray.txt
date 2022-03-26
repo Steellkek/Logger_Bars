@@ -1,0 +1,6 @@
+[Info]: [Array] : Объект создан
+[Warning]: [Array] : Предупреждение
+[Error] : [Array] : Произошла ошибка. One of the identified items was in an invalid format.
+[Info]: [Array] : Объект создан
+[Warning]: [Array] : Предупреждение
+[Error] : [Array] : Произошла ошибка. One of the identified items was in an invalid format.

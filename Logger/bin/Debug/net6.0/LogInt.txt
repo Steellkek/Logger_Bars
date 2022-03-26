@@ -1,0 +1,6 @@
+[Info]: [Int32] : Объект создан
+[Warning]: [Int32] : Предупреждение
+[Error] : [Int32] : Произошла ошибка. One of the identified items was in an invalid format.
+[Info]: [Int32] : Объект создан
+[Warning]: [Int32] : Предупреждение
+[Error] : [Int32] : Произошла ошибка. One of the identified items was in an invalid format.

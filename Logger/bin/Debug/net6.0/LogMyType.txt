@@ -1,0 +1,3 @@
+[Info]: [MyType] : Объект создан
+[Warning]: [MyType] : Предупреждение
+[Error] : [MyType] : Произошла ошибка. One of the identified items was in an invalid format.

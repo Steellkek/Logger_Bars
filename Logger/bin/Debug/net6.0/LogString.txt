@@ -1,0 +1,6 @@
+[Info]: [String] : Объект создан
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Произошла ошибка. One of the identified items was in an invalid format.
+[Info]: [String] : Объект создан
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Произошла ошибка. One of the identified items was in an invalid format.
